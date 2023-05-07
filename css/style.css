@@ -1,0 +1,27 @@
+/* 
+    All Images Link
+
+https://i.ibb.co/C0CK368/blog-1.jpg
+https://i.ibb.co/h2y2t4R/blog-2.jpg
+https://i.ibb.co/1TvC8rr/blog-3.jpg
+https://i.ibb.co/rbZwpLb/lake.jpg
+https://i.ibb.co/d4WWT4K/main.jpg
+https://i.ibb.co/KmSnJs0/man-img.jpg
+https://i.ibb.co/yn6njdb/fruit.jpg
+    
+*/
+
+.carousel-item img{
+    height: 800px;
+}
+.carousel-inner{
+    position: relative;
+}
+.carousel-caption{
+    position: absolute;
+    top: 46%;
+    left:0%;
+    text-align: center;
+    width: 100%;
+}
+
